@@ -1,0 +1,26 @@
+[04-Sep-2018 11:20:56 UTC] PHP Fatal error:  Call to a member function row() on null in /home/soft12bdtask/public_html/pharmacy_v8.1/application/views/customer/customer.php on line 153
+[04-Sep-2018 11:23:23 UTC] PHP Fatal error:  Call to a member function row() on null in /home/soft12bdtask/public_html/pharmacy_v8.1/application/views/customer/customer.php on line 153
+[05-Sep-2018 12:42:00 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '<' in /home/soft12bdtask/public_html/pharmacy_v8.1/application/views/include/admin_header.php on line 422
+[05-Sep-2018 12:42:07 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '<' in /home/soft12bdtask/public_html/pharmacy_v8.1/application/views/include/admin_header.php on line 422
+[08-Sep-2018 06:40:01 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/application/helpers/lang_helper.php on line 16
+[08-Sep-2018 06:40:28 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/application/helpers/lang_helper.php on line 16
+[08-Sep-2018 07:10:44 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/system/database/drivers/mysqli/mysqli_driver.php on line 403
+[08-Sep-2018 07:58:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/system/database/DB_driver.php on line 1256
+[08-Sep-2018 09:14:25 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/application/helpers/lang_helper.php on line 16
+[09-Sep-2018 11:02:12 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/application/helpers/lang_helper.php on line 16
+[10-Sep-2018 03:51:33 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/application/helpers/lang_helper.php on line 16
+[10-Sep-2018 03:52:38 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/application/helpers/lang_helper.php on line 16
+[10-Sep-2018 04:50:52 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/system/database/drivers/mysqli/mysqli_driver.php on line 403
+[10-Sep-2018 05:12:51 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/system/database/DB_driver.php on line 1256
+[11-Sep-2018 12:30:34 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/application/helpers/lang_helper.php on line 16
+[11-Sep-2018 12:30:42 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/application/helpers/lang_helper.php on line 16
+[11-Sep-2018 12:41:22 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/system/database/drivers/mysqli/mysqli_driver.php on line 403
+[11-Sep-2018 12:56:24 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/system/database/DB_driver.php on line 1256
+[12-Sep-2018 07:47:24 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/application/helpers/lang_helper.php on line 16
+[12-Sep-2018 07:47:50 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/application/helpers/lang_helper.php on line 16
+[12-Sep-2018 07:50:13 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/soft12bdtask/public_html/pharmacy_v8.1/application/helpers/lang_helper.php on line 16
+[08-Jan-2019 05:48:25 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/pharmacy8.5/application/helpers/lang_helper.php on line 16
+[08-Jan-2019 06:57:28 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/pharmacy8.5/application/helpers/lang_helper.php on line 16
+[11-Jun-2019 13:00:49 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/pharmacysasmodel/application/models/Manufacturers.php on line 445
+[11-Jun-2019 13:00:57 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/pharmacysasmodel/application/models/Manufacturers.php on line 445
+[11-Jun-2019 13:10:05 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/pharmacysasmodel/application/models/Manufacturers.php on line 445

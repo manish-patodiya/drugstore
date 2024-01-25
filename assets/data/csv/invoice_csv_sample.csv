@@ -1,0 +1,3 @@
+customer_name,invoice_date,invoice_id,details,medicine_name,batch_id,qty,price,paid_amount,due_amount,discount,total_discount
+Shahabuddin,2/5/2020,1s234235,sdfs,Napa,111,10,35,100,250,0,0
+,,1s234235,sdfsdf,Floxin,222,5,60,300,0,0,0
